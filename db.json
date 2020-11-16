@@ -21,5 +21,44 @@
             "id" : 2,
             "nome": "Carla" 
         }
+    ],
+    "alimentos": 
+    [
+        {
+            "id": 1,
+            "idUsuario": 1,
+            "nome": "Mamão",
+            "quantidade": 0,
+            "datacompra": "10/11/2020",
+            "tipoalimento": "fruta",
+            "tipoitem": "geladeira"
+        },
+        {
+            "id": 1,
+            "idUsuario": 1,
+            "nome": "Manga",
+            "quantidade": 0,
+            "datacompra": "15/11/2020",
+            "tipoalimento": "fruta",
+            "tipoitem": "geladeira"
+        },
+        {
+            "id": 1,
+            "idUsuario": 1,
+            "nome": "Cenoura",
+            "quantidade": 0,
+            "datacompra": "10/11/2020",
+            "tipoalimento": "legume",
+            "tipoitem": "geladeira"
+        },
+        {
+            "id": 1,
+            "idUsuario": 1,
+            "nome": "brocolis",
+            "quantidade": 0,
+            "datacompra": "10/11/2020",
+            "tipoalimento": "verdura",
+            "tipoitem": "geladeira"
+        }
     ]
 }
